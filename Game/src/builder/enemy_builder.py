@@ -1,6 +1,6 @@
 import random
 import pygame
-from src.entities.enemy import Enemy
+from entities.enemy import Enemy
 
 class EnemyBuilder:
     def __init__(self):
